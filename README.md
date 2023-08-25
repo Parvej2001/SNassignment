@@ -97,4 +97,8 @@ Finalling after changes on the repo You will automatically sea chages in the Liv
 
 ![image](https://github.com/Parvej2001/SNassignment/assets/86014533/374a2008-f59f-4d24-b888-b61bcbd1be08)
 
+## Conclusion
 
+This CI/CD pipeline automates the process of building, testing, and deploying the App. It ensures that changes to the codebase are thoroughly tested and deployed to a controlled staging environment before being promoted to production. The pipeline enhances the development process by reducing manual interventions and increasing the reliability of the deployment process.
+
+For any questions or assistance, please contact [PARVEJ SHAIKH] at [shaikhp055@gmail.com].

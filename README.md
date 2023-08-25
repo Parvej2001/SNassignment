@@ -83,17 +83,18 @@ Go to the Repository settings, and add webhook. In the Payload URL, give the Jen
 
 …………………………../github-webhook/. In content type, make it application /json and add webhook.
 
+![image](https://github.com/Parvej2001/SNassignment/assets/86014533/e06ec009-59fe-4c22-a75f-838903ded3c0)
 
-Run these commands:
+After adding the webhook you will see this kind of Interface 
 
+![image](https://github.com/Parvej2001/SNassignment/assets/86014533/4fe2f95c-2f1f-464f-8070-2842612dcac2)
 
-`sudo apt install nodejs`
+Now go to Jenkins and In Build Trigger select `GitHub hook trigger for GITScm polling` 
 
+![image](https://github.com/Parvej2001/SNassignment/assets/86014533/a80ce99d-b4ad-4a26-ad22-d22347b7e292)
 
-`sudo apt install npm`
+Finalling after changes on the repo You will automatically sea chages in the Live server Like this
 
+![image](https://github.com/Parvej2001/SNassignment/assets/86014533/374a2008-f59f-4d24-b888-b61bcbd1be08)
 
-`sudo npm install`
-
-`node app.js`
 

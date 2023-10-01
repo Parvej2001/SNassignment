@@ -1,4 +1,4 @@
-# CI/CD Pipeline Setup for a Node App
+# CI/CD Pipeline Setup for a Node Application
 
 This repository contains the setup and documentation for the CI/CD pipeline of the Node App using Jenkins , Docker, Aws Ec2.
 
